@@ -1,6 +1,6 @@
-# Project Name
+# Abibas Product View
 
-> Project description
+> Renders the product view.
 
 ## Related Projects
 
