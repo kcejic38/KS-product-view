@@ -10,7 +10,7 @@
   "scripts": {
     "start": "nodemon server/index.js",
     "react-dev": "webpack -d --watch",
-    "db:setup": "database/seed.js"
+    "db:setup": "node database/seed.js"
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
