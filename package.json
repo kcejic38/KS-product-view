@@ -1,7 +1,7 @@
 {
   "name": "adidas-product-view",
   "version": "1.0.0",
-  "description": "",
+  "description": "> Renders the product view.",
   "author": "Peter",
   "license": "ISC",
   "engines": {
@@ -29,7 +29,16 @@
     "enzyme": "^3.8.0",
     "enzyme-adapter-react-16": "^1.9.1",
     "enzyme-to-json": "^3.3.5",
-    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
+    "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor.git",
     "jest": "^24.1.0"
-  }
+  },
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abibasss/product-view.git"
+  },
+  "bugs": {
+    "url": "https://github.com/abibasss/product-view/issues"
+  },
+  "homepage": "https://github.com/abibasss/product-view#readme"
 }
