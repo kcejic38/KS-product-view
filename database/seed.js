@@ -9,7 +9,7 @@ const sequelize = new Sequelize('', 'root', config.pw, {
 });
 
 sequelize.query('CREATE DATABASE Products').then(()=> {
-  const db = new Sequelize('Products', 'root', 'jojojo95', {
+  const db = new Sequelize('Products', 'root', config.pw, {
     host: 'localhost',
     dialect: 'mysql'
     }
