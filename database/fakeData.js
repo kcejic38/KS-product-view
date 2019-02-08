@@ -1,3 +1,5 @@
+const faker = require('faker');
+
 module.exports = data = {
   shoeLink1: [
     'https://s3.amazonaws.com/fec-abibas/f6937e328b7c44ef886ea97501027a8f_9366.jpg',
@@ -21,5 +23,37 @@ module.exports = data = {
     'https://s3.amazonaws.com/fec-abibas/30580fc5f5a74a1eaa52a97c0124f77d_9366.jpg',
     'https://s3.amazonaws.com/fec-abibas/07a07dbbb4ef4ef3bd44a7af00f3be4c_9366.jpg',
     'https://s3.amazonaws.com/fec-abibas/061ba858e69744459f8ba7af00f3de80_9366.jpg'
-  ]
-}
+  ],
+  product1: {
+    color: 'Grey, Grey, Grey',
+    type: "Men's Running",
+    model: "UltraBoost All Terrain Shoes",
+    sizes: "6, 6.5, 7, 8, 8.5, 10, 14, 14.5, 16",
+    price: 180.00,
+    image_ID: 3,
+    review_count: 1200,
+    avg_stars: 4.75
+  },
+  product2: {
+    color: 'Night Red, Noble Maroon, Bright Blue',
+    type: "Men's Running",
+    model: "UltraBoost All Terrain Shoes",
+    sizes: "6, 6.5, 7, 8, 8.5, 9, 9.5, 10, 14, 14.5",
+    price: 180.00,
+    image_ID: 2,
+    avg_stars: 4.1,
+    review_count: 320
+  },
+  product3: {
+    color: 'Chalk White, Cloud White, Grey',
+    type: "Men's Running",
+    model: "UltraBoost All Terrain Shoes",
+    sizes: "6, 6.5, 7, 8, 8.5, 9, 9.5",
+    price: 180.00,
+    image_ID: 1,
+    avg_stars: 4.7,
+    review_count: 150
+  },
+
+
+};
