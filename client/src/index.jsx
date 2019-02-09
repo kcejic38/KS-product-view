@@ -15,7 +15,7 @@ class App extends React.Component {
 
   componentDidMount() {
     // this.getProduct();
-    this.getImages();
+    // this.getImages();
   }
 
   getProduct() {
