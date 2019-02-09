@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactDom from 'react-dom';
+import NavBar from './Components/navigation.jsx'
 import $ from 'jquery';
 
 class App extends React.Component {
@@ -42,7 +43,7 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>Abibas</h1>
+        <NavBar />
       </div>
     )
   }
