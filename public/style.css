@@ -1,0 +1,37 @@
+@import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css');
+
+body {
+  font-family: AdihausDIN,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-container {
+  display: flex;
+  vertical-align: middle;
+  padding: 15px;
+}
+
+.icon {
+  margin-right: 5px;
+}
+
+ol.nav-list {
+  list-style: none;
+}
+
+ol.nav-list li {
+  display: inline;
+  font-size: 14px;
+  margin: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.back-container {
+  padding-right: 5px;
+}
+
+.back-container:hover, ol.nav-list li:hover {
+  color: white;
+  background-color: black;
+}
