@@ -1,15 +1,18 @@
 @import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css');
 
 body {
-  font-family: AdihausDIN,Helvetica,Arial,sans-serif;
+  font-family: AdihausDIN, Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
 }
 
 .nav-container {
+  margin: auto;
+  width: 85%;
   display: flex;
   vertical-align: middle;
-  padding: 15px;
+  padding-left: 15px;
+  padding-top: 10px;
 }
 
 .icon {
@@ -26,12 +29,108 @@ ol.nav-list li {
   margin: 3px;
   padding-top: 5px;
   padding-bottom: 5px;
+  cursor: pointer;
 }
 .back-container {
-  padding-right: 5px;
+  cursor: pointer;
 }
 
 .back-container:hover, ol.nav-list li:hover {
   color: white;
   background-color: black;
+}
+
+.main-component {
+  background-color: #ebedee;
+  position: absolute;
+  width: 100%;
+  height: 620px;
+  overflow: hidden;
+}
+
+.center {
+  position: relative;
+  margin: auto;
+  left: 7%;
+  display: flex;
+}
+
+.image-container {
+  height:620px;
+  position: relative;
+  left: 0;
+  top: 0;
+  padding-right: 0;
+  padding-left: 0;
+  width: 55%;
+}
+.gallery-container {
+  width: 54px;
+  max-height: 438px;
+  position: absolute;
+  left: 15px;
+  top: 80px;
+  bottom: 60px;
+  overflow: hidden;
+  display: block;
+  margin: auto 5px;
+}
+
+.thumbnail {
+  border: 1px solid #767677;
+  margin-bottom: 10px;
+  cursor: pointer;
+  height: auto;
+}
+
+.thumbnail:hover {
+  border-bottom: 2px solid black;
+}
+
+.thumbnail img {
+  width: 100%;
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
+.current-container {
+  position: absolute;
+  left: 75px;
+  width: 620px;
+  height: 100%;
+  margin-left: 30px;
+}
+
+.current-container img {
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  cursor: zoom-in;
+}
+
+.left-arrow, .right-arrow {
+  position: absolute;
+  height: 30px;
+  width: 30px;
+  top: 50%;
+  transition: transform 0.3s ease;
+}
+.left-arrow {
+  left: 1%;
+  transform: translateX(20px);
+}
+.right-arrow {
+  right: 1%;
+}
+
+.right-arrow:hover, .left-arrow:hover {
+  transform: translateX(10px);
+}
+
+.info-container {
+  background-color: white;
+  width: 350px;
+  padding: 20px;
+  display: flex;
 }
