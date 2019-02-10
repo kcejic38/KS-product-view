@@ -1,32 +1,19 @@
 import React from 'react';
 import ReactDom from 'react-dom';
-import NavBar from './Components/navigation.jsx'
+import NavBar from './Components/navigation.jsx';
+import Main from './Components/main.jsx';
 import $ from 'jquery';
 
 class App extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-      currentShoe: '',
-      Shoes: '',
-      Images:''
     }
   }
 
   componentDidMount() {
     // this.getProduct();
     // this.getImages();
-  }
-
-  getProduct() {
-    $.ajax({
-      type: 'GET',
-      url: '/products',
-      data: { model: 'UltraBoost All Terrain Shoes'},
-      contentType: 'application/json',
-      success: (data)=> {console.log(data)},
-      error: (err) => {console.log('error')}
-    })
   }
 
   getImages() {
@@ -44,6 +31,7 @@ class App extends React.Component {
     return (
       <div>
         <NavBar />
+        <Main />
       </div>
     )
   }
