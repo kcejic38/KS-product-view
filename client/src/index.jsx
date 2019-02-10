@@ -16,17 +16,6 @@ class App extends React.Component {
     // this.getImages();
   }
 
-  getImages() {
-    $.ajax({
-      type: 'GET',
-      url: '/images',
-      data: { imageID: '1'},
-      contentType: 'application/json',
-      success: (data)=> {console.log(data)},
-      error: (err) => {console.log('error')}
-    })
-  }
-
   render() {
     return (
       <div>

@@ -11,6 +11,18 @@ class Images extends React.Component {
       images: []
     }
   }
+
+  getImages(id) {
+    $.ajax({
+      type: 'GET',
+      url: '/images',
+      data: { imageID: id},
+      contentType: 'application/json',
+      success: (data)=> {console.log(data)},
+      error: (err) => {console.log('error')}
+    })
+  }
+
   render() {
     return (
       <div className="image-container">

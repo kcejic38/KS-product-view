@@ -1,6 +1,7 @@
 import React from 'react';
 import $ from 'jquery';
-import Images from './images.jsx'
+import Images from './product-view/images.jsx';
+import InfoSection from './Product-info/info.jsx';
 
 class Main extends React.Component {
   constructor(props){
@@ -34,6 +35,7 @@ class Main extends React.Component {
       <div className="main-component">
         <div className="center">
           <Images />
+          <InfoSection />
         </div>
       </div>
     )
