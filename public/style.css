@@ -5,6 +5,7 @@ body {
   font-weight: 400;
   font-style: normal;
   color: #000;
+  font-size: 16px;
 }
 
 .nav-container {
@@ -37,7 +38,7 @@ ol.nav-list li {
   cursor: pointer;
 }
 
-.review-link:hover, .back-container:hover, ol.nav-list li:hover {
+.size-helper:hover, .review-link:hover, .back-container:hover, ol.nav-list li:hover {
   color: white;
   background-color: black;
 }
@@ -135,6 +136,7 @@ ol.nav-list li {
   padding: 20px;
   display: block;
   width: 25%;
+  height: 100%;
 }
 
 .star-ratings {
@@ -212,6 +214,7 @@ ol.nav-list li {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  width: 100%;
 }
 
 .other-thumbnail {
@@ -221,4 +224,135 @@ ol.nav-list li {
   display: block;
   position: relative;
   height: 70px;
+}
+
+.checkout-container {
+  width: 100%;
+}
+
+.size-helper {
+  cursor: pointer;
+  display: inline;
+}
+
+.glyphicon-th {
+  margin-right: 5px;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.dropdown {
+  margin: 10px 5px 5px 10px;
+}
+.dropdown-toggle{
+  background-color: white;
+  color: black;
+  height: 50px;
+  width: 100%;
+  border: 1.01565px solid #767677;
+  border-radius: 0;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.dropdown-table {
+  width: 70%;
+}
+.dropdown-size {
+  width: 18%;
+}
+
+.dropdown-size .dropwdown-menu:hover {
+  background-color: #767677;
+}
+
+.dropdown-size .dropdown-menu {
+  padding-top:0;
+  padding-bottom: 0;
+  width: 100%;
+  min-width: 0;
+  font-size: 13px;
+  text-align: center;
+  font-weight: 700;
+  overflow: auto;
+}
+
+.dropdown-item {
+  font-weight: 700;
+  height: 50px;
+  border: 1.01565px solid #767677;
+}
+
+.glyphicon-arrow-right {
+  color: white;
+}
+
+.bag-button {
+  margin:5px 12px 10px 10px;
+  color: white;
+  background-color: black;
+  width: 72%;
+  padding: 0 21px;
+  line-height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  position: relative;
+  font-size: 14px;
+}
+
+.bag-button span {
+  width: 85%;
+}
+
+.bag-button::after {
+  content:"";
+  display: block;
+  position: absolute;
+  left:3px;
+  top:3px;
+  width:100%;
+  height:100%;
+  box-shadow: inset 0 0 0 1px #000;
+}
+
+.bag-button:hover {
+  color:  #767677;
+}
+
+.heart {
+  border: black 1px solid;
+  height: 50px;
+  width: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-left: 5px;
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.heart:hover {
+  font-size: 20px;
+  opacity: .8;
+}
+
+.glyphicon-plane {
+  margin-right: 5px;
+}
+
+.shipping {
+  margin-top: 10px;
+}
+.shipping .container span {
+  cursor: pointer;
+}
+
+.shipping .container span:hover {
+  color: white;
+  background-color: black;
 }
