@@ -32,6 +32,7 @@ ol.nav-list li {
   padding-bottom: 5px;
   cursor: pointer;
 }
+
 .back-container {
   cursor: pointer;
 }
@@ -133,7 +134,7 @@ ol.nav-list li {
   background-color: white;
   padding: 20px;
   display: block;
-  width: 28%;
+  width: 25%;
 }
 
 .star-ratings {
@@ -168,4 +169,37 @@ ol.nav-list li {
   text-transform: uppercase;
   letter-spacing: 1px;
   font-style: normal;
+}
+
+.related-container {
+  margin-bottom: 40px;
+  margin-top: 15px;
+  margin-right: auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.related-container h5 {
+  width: 100%;
+  margin: 0 0 10px;
+  font-size: 18px;
+  line-height: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+}
+
+.related-container ol {
+  list-style: none;
+  padding-left: 0;
+}
+
+.related-container li {
+  display: inline;
+  font-size: 14px;
+  margin: 3px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  cursor: pointer;
 }
