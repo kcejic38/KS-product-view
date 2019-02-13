@@ -11,10 +11,10 @@ class App extends React.Component {
     }
   }
 
-  componentDidMount() {
-    // this.getProduct();
-    // this.getImages();
-  }
+  // componentDidMount() {
+  //   // this.getProduct();
+  //   // this.getImages();
+  // }
 
   render() {
     return (
