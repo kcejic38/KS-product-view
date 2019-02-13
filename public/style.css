@@ -4,6 +4,7 @@ body {
   font-family: AdihausDIN, Helvetica, Arial, sans-serif;
   font-weight: 400;
   font-style: normal;
+  color: #000;
 }
 
 .nav-container {
@@ -35,7 +36,7 @@ ol.nav-list li {
   cursor: pointer;
 }
 
-.back-container:hover, ol.nav-list li:hover {
+.review-link:hover, .back-container:hover, ol.nav-list li:hover {
   color: white;
   background-color: black;
 }
@@ -130,7 +131,41 @@ ol.nav-list li {
 
 .info-container {
   background-color: white;
-  width: 350px;
   padding: 20px;
+  display: block;
+  width: 28%;
+}
+
+.star-ratings {
+  margin-right: 10px;
+}
+
+.product-info-container {
+  display: block;
+  width: 100%;
+}
+
+.star-review-container {
   display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 10px;
+}
+
+.category {
+  text-transform: uppercase;
+  margin: 0 0 2px;
+  color: #767677;
+  font-size: 13px;
+  line-height; 17px;
+  letter-spacing: 2px;
+}
+
+.model {
+  margin-bottom: 7px;
+  font-size: 26px;
+  line-height:24px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-style: normal;
 }
