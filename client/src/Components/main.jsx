@@ -7,13 +7,14 @@ class Main extends React.Component {
   constructor(props){
     super(props);
     this.state = {
-      currentProduct:'',
-      products: ''
+      products: [],
+      images: []
     }
+    this.getImages = this.getImages.bind(this);
   }
 
   componentDidMount() {
-    // this.getProduct('UltraBoost All Terrain Shoes');
+    this.getProduct('UltraBoost All Terrain Shoes');
   }
 
   getProduct(model) {
@@ -24,9 +25,21 @@ class Main extends React.Component {
       contentType: 'application/json',
       error: (err) => {console.log(err, 'failed retrieving products')},
       success: (data)=> {this.setState({
-        products: data,
-        currentProduct: data[0],
-      })}
+        products: data
+      });
+      this.getImages(data[0].image_ID);
+    }
+    })
+  }
+
+  getImages(id) {
+    $.ajax({
+      type: 'GET',
+      url: '/images',
+      data: { imageID: id},
+      contentType: 'application/json',
+      success: (data)=> {this.setState({images:data})},
+      error: (err) => {console.log('error')}
     })
   }
 
@@ -34,8 +47,8 @@ class Main extends React.Component {
     return (
       <div className="main-component">
         <div className="center">
-          <Images />
-          <InfoSection />
+          <Images images={this.state.images}/>
+          <InfoSection products={this.state.products}/>
         </div>
       </div>
     )

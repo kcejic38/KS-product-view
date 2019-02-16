@@ -7,19 +7,19 @@ const ProductInfo = (props) => {
     <div className="product-info-container">
       <div className="star-review-container">
         <StarRatings
-          rating={3}
+          rating={props.currentProduct ? props.currentProduct.avg_stars : 0 }
           starRatedColor='black'
           numberOfStars={5}
           name='rating'
           starDimension='16px'
           starSpacing='2px'
           />
-        <span className="review-link"><u>Read all TODO reviews</u></span>
+        <span className="review-link"><u>Read all {props.currentProduct ? props.currentProduct.review_count : 0}</u></span>
       </div>
       <div>
-        <span className="category"> TODO: Men's Running</span>
-        <h1 className="model">TODO: UltraBoost All Terrain Shoes</h1>
-        <span className="price">TODO: $189</span>
+        <span className="category"> {props.currentProduct ? props.currentProduct.type : null}</span>
+        <h1 className="model">{props.currentProduct ? props.currentProduct.model : null}</h1>
+        <span className="price">${props.currentProduct ? props.currentProduct.price: null}</span>
       </div>
     </div>
   )

@@ -5,12 +5,19 @@ import Checkout from './checkout.jsx';
 
 
 class InfoSection extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      current: 0
+    };
+  }
+
   render() {
     return (
       <div className="info-container">
-        <ProductInfo />
-        <RelatedProducts />
-        <Checkout />
+        <ProductInfo currentProduct={this.props.products[this.state.current]}/>
+        <RelatedProducts products={this.props.products} currentProduct={this.props.products[this.state.current]}/>
+        <Checkout currentProduct={this.props.products[this.state.current]}/>
       </div>
     )
   }
