@@ -257,6 +257,7 @@ ol.nav-list li {
   font-size: 13px;
   font-weight: 700;
   text-transform: uppercase;
+  overflow: auto;
 }
 
 .dropdown-table {
@@ -278,7 +279,11 @@ ol.nav-list li {
   font-size: 13px;
   text-align: center;
   font-weight: 700;
+}
+
+.dropdown-menu {
   overflow: auto;
+  height: 150px;
 }
 
 .dropdown-item {

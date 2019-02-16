@@ -2,6 +2,7 @@ import React from 'react';
 import Dropdown from 'react-bootstrap/Dropdown';
 
 const Checkout = (props) => {
+  let sizes = props.currentProduct ? props.currentProduct.sizes.split(',') : [];
   return (
     <div className="checkout-container">
       <div className="size-helper">
@@ -15,9 +16,11 @@ const Checkout = (props) => {
           </Dropdown.Toggle>
 
           <Dropdown.Menu>
-            <Dropdown.Item>1</Dropdown.Item>
-            <Dropdown.Item>2</Dropdown.Item>
-            <Dropdown.Item>3</Dropdown.Item>
+            {sizes.map((size) => {
+              return (
+                <Dropdown.Item>{size}</Dropdown.Item>
+              )
+            })}
           </Dropdown.Menu>
         </Dropdown>
         <Dropdown className="dropdown-size">
@@ -25,19 +28,21 @@ const Checkout = (props) => {
           </Dropdown.Toggle>
 
           <Dropdown.Menu>
-            <Dropdown.Item>1</Dropdown.Item>
-            <Dropdown.Item>2</Dropdown.Item>
-            <Dropdown.Item>3</Dropdown.Item>
+            {sizes.map((size) => {
+              return (
+                <Dropdown.Item>{size}</Dropdown.Item>
+              )
+            })}
           </Dropdown.Menu>
         </Dropdown>
       </div>
       <div className="row">
-        <div className="bag-button"><span>ADD TO BAG</span> <i class="glyphicon glyphicon-arrow-right"></i></div>
-        <div className="heart"><i class="glyphicon glyphicon-heart"></i></div>
+        <div className="bag-button"><span>ADD TO BAG</span> <i className="glyphicon glyphicon-arrow-right"></i></div>
+        <div className="heart"><i className="glyphicon glyphicon-heart"></i></div>
       </div>
       <div className="row shipping">
         <div className="container">
-          <i class="glyphicon glyphicon-plane"></i>
+          <i className="glyphicon glyphicon-plane"></i>
           <span><u>FREE SHIPPING AND FREE RETURNS</u></span>
         </div>
       </div>

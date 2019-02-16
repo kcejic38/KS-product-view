@@ -1,23 +1,67 @@
 import React from 'react';
 import Image from 'react-bootstrap/Image';
+import $ from 'jquery';
 
+class RelatedProducts extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      otherImages: []
+    }
+  }
 
-const RelatedProducts = (props) => {
-  return (
-    <div className="related-container">
-      <h5>Available Colors</h5>
-      <ol>
-        <li>TODO1</li> /
-        <li>TODO2</li> /
-        <li>TODO3</li>
-      </ol>
-      <div className="other-colors">
-        <Image className="other-thumbnail" src="https://assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/9bd9d0ae47aa4e6c85b8a97e012f405b_9366/Ultraboost_All_Terrain_Shoes_Grey_F35236_01_standard.jpg" roundedCircle />
-        <Image className="other-thumbnail" src="https://assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/9bd9d0ae47aa4e6c85b8a97e012f405b_9366/Ultraboost_All_Terrain_Shoes_Grey_F35236_01_standard.jpg" roundedCircle />
-        <Image className="other-thumbnail" src="https://assets.adidas.com/images/w_840,h_840,f_auto,q_auto:sensitive,fl_lossy/9bd9d0ae47aa4e6c85b8a97e012f405b_9366/Ultraboost_All_Terrain_Shoes_Grey_F35236_01_standard.jpg" roundedCircle />
+  componentDidMount() {
+    // if (this.state.otherImages.length === this.props.products.length) {
+    //   this.updateImages();
+    // }
+    // console.log(this.state);
+    this.updateImages();
+  }
+
+  updateImages() {
+    for (let i = 0; i < this.props.products.length; i++) {
+      this.getImages(this.props.products[i].image_ID);
+    }
+  }
+
+  getImages(id) {
+    let currentImages = this.state.otherImages;
+    $.ajax({
+      type: 'GET',
+      url: '/images',
+      data: { imageID: id},
+      contentType: 'application/json',
+      success: (data)=> {
+        this.setState({
+        otherImages: currentImages.push(data[0])
+      }); console.log(this.state.otherImages)},
+      error: (err) => {console.log('error')}
+    })
+  }
+
+  render() {
+    let colors = this.props.currentProduct ? this.props.currentProduct.colors.split(',') : [];
+    return (
+      <div className="related-container">
+        <h5>Available Colors</h5>
+        <ol>
+          {colors.map((color, i) => {
+            return (
+              <li key={i}>{color} {i < colors.length -1? '/': ''}</li>
+            )
+          })}
+        </ol>
+        <div className="other-colors">
+          {this.state.otherImages.map((image, i) => {
+            return (
+              <Image key={i} className="other-thumbnail" src={image} roundedCircle />
+            )
+          })}
+        </div>
       </div>
-    </div>
-  )
+    )
+
+  }
 }
 
 export default RelatedProducts;

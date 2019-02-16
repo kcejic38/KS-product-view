@@ -8,26 +8,35 @@ class Images extends React.Component {
     super(props);
     this.state = {
       currentImage: 0,
-      images: []
+    }
+    this.onLeftArrowClick = this.onLeftArrowClick.bind(this);
+    this.onRightArrowClick = this.onRightArrowClick.bind(this);
+    this.onThumbNailClick = this.onThumbNailClick.bind(this);
+  }
+
+  onLeftArrowClick(){
+    if (this.state.currentImage > 0) {
+      let index = this.state.currentImage - 1;
+      this.setState({currentImage: index})
     }
   }
 
-  getImages(id) {
-    $.ajax({
-      type: 'GET',
-      url: '/images',
-      data: { imageID: id},
-      contentType: 'application/json',
-      success: (data)=> {console.log(data)},
-      error: (err) => {console.log('error')}
-    })
+  onRightArrowClick(){
+    if (this.state.currentImage < this.props.images.length - 1) {
+      let index = this.state.currentImage + 1;
+      this.setState({currentImage: index})
+    }
+  }
+
+  onThumbNailClick(index){
+    this.setState({currentImage: index})
   }
 
   render() {
     return (
       <div className="image-container">
-        <ImageGallery />
-        <CurrentImage />
+        <ImageGallery images={this.props.images} thumbNailClick={this.onThumbNailClick}/>
+        <CurrentImage image={this.props.images[this.state.currentImage]} leftArrowClick={this.onLeftArrowClick} rightArrowClick={this.onRightArrowClick}/>
       </div>
     )
   }
