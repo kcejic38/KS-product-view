@@ -12,7 +12,7 @@ const NavBar = (props) => {
           <li><u>Home</u></li><span>/</span>
           <li><u>Men</u></li><span>/</span>
           <li><u>Shoes</u></li><span>/</span>
-          <li><u>TODO: prop.type</u></li>
+          <li><u>UltraBoost</u></li>
         </ol>
       </div>
     </nav>

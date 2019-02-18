@@ -14,7 +14,7 @@ const ProductInfo = (props) => {
           starDimension='16px'
           starSpacing='2px'
           />
-        <span className="review-link"><u>Read all {props.currentProduct ? props.currentProduct.review_count : 0}</u></span>
+        <span className="review-link"><u>Read all {props.currentProduct ? props.currentProduct.review_count : 0} reviews</u></span>
       </div>
       <div>
         <span className="category"> {props.currentProduct ? props.currentProduct.type : null}</span>

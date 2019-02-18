@@ -10,31 +10,34 @@ class RelatedProducts extends React.Component {
     }
   }
 
-  componentDidMount() {
-    // if (this.state.otherImages.length === this.props.products.length) {
-    //   this.updateImages();
-    // }
-    // console.log(this.state);
-    this.updateImages();
-  }
+  // componentDidMount() {
+  //   // if (this.state.otherImages.length === this.props.products.length) {
+  //   //   this.updateImages();
+  //   // }
+  //   // console.log(this.state);
+  //   // this.updateImages();
+  // }
 
   updateImages() {
+    let temp = [];
     for (let i = 0; i < this.props.products.length; i++) {
-      this.getImages(this.props.products[i].image_ID);
+      temp.push(this.getImages(this.props.products[i].image_ID));
+      if (temp.length === 3) {
+        this.setState({
+          otherImages: temp
+        })
+      }
     }
   }
 
   getImages(id) {
-    let currentImages = this.state.otherImages;
     $.ajax({
       type: 'GET',
       url: '/images',
       data: { imageID: id},
       contentType: 'application/json',
-      success: (data)=> {
-        this.setState({
-        otherImages: currentImages.push(data[0])
-      }); console.log(this.state.otherImages)},
+      success: (data)=> { return data[0];
+      },
       error: (err) => {console.log('error')}
     })
   }
@@ -52,9 +55,9 @@ class RelatedProducts extends React.Component {
           })}
         </ol>
         <div className="other-colors">
-          {this.state.otherImages.map((image, i) => {
+          {this.props.otherImages.map((image, i) => {
             return (
-              <Image key={i} className="other-thumbnail" src={image} roundedCircle />
+              <Image key={i} onClick={()=> {this.props.infoClick(i); this.props.onRelatedClick(i)}}className="other-thumbnail" src={image} roundedCircle />
             )
           })}
         </div>
