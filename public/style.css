@@ -1,5 +1,12 @@
 @import url('//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css');
 
+@font-face {
+    font-family: 'adihaus';
+    src: url('fonts/AdihausDIN.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
 body {
   font-family: AdihausDIN, Helvetica, Arial, sans-serif;
   font-weight: 400;
@@ -360,4 +367,30 @@ ol.nav-list li {
 .shipping .container span:hover {
   color: white;
   background-color: black;
+}
+
+.carousel-container {
+  position: relative;
+  border: 1px solid black;
+  height: 600px;
+  margin: auto;
+}
+
+.carousel-current {
+  display: block;
+  height: 580px;
+  margin: auto;
+}
+
+.exit-container {
+  position: absolute;
+  top: 1px;
+  right: 32px;
+  border: 1px solid black;
+  width: 34px;
+  height: 34px;
+  padding-top: 5px;
+  text-align: center;
+  background-color: white;
+  cursor: pointer;
 }

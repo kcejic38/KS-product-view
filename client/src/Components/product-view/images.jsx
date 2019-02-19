@@ -36,7 +36,7 @@ class Images extends React.Component {
     return (
       <div className="image-container">
         <ImageGallery images={this.props.images} thumbNailClick={this.onThumbNailClick}/>
-        <CurrentImage image={this.props.images[this.state.currentImage]} leftArrowClick={this.onLeftArrowClick} rightArrowClick={this.onRightArrowClick}/>
+        <CurrentImage image={this.props.images[this.state.currentImage]} leftArrowClick={this.onLeftArrowClick} rightArrowClick={this.onRightArrowClick} showCarousel={this.props.showCarousel}/>
       </div>
     )
   }
