@@ -29,8 +29,9 @@ const Shoes = db.define('shoes', {
   avg_stars: { type: Sequelize.INTEGER, allowNull: false}
 })
 
-module.exports = DB = {
+const DB = {
   db,
   Shoes,
   Images
-};
+}
+module.exports = DB;
