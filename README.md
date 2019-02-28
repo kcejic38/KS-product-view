@@ -1,39 +1,27 @@
-# Abibas Product View
+### Abibas Product View
 
 > Renders the product view.
 
-## Related Projects
+### CRUD API Endpoints
+---
+#### Shoes (Products)
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
 
-## Table of Contents
+`GET` /shoes/:shoesId
 
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+`POST` /image
 
-## Usage
+`GET` /images/:imageId
 
-> Some usage instructions
+`DELETE` /image/:imageId
 
-## Requirements
+`PUT` /image/:imageId
 
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
+#### Parameters
+ 
+| Name | Type | Description |
+|------|------|-------------|
+| Image ID | string | Id of user-uploaded image |
+| shoes ID | string | Id of a specific pair of shoes |
 
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
-
+---
