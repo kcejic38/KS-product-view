@@ -3,13 +3,13 @@ const config = require('../config.js');
 const Data = require('./fakeData.js');
 const faker = require('faker');
 
-const sequelize = new Sequelize('', 'root', config.pw, {
+const sequelize = new Sequelize('', config.user, config.pw, {
   host: 'localhost',
   dialect: 'mysql',
 });
 
 sequelize.query('CREATE DATABASE Products').then(()=> {
-  const db = new Sequelize('Products', 'root', config.pw, {
+  const db = new Sequelize('Products', config.user, config.pw, {
     host: 'localhost',
     dialect: 'mysql'
     }
