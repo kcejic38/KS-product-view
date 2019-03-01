@@ -234,13 +234,13 @@ const shoes = [
 
 const finalShoesArray = [];
 const finalImagesArray = [];
-const MAX_LENGTH = 100000;
+const TEN_MILLION = 10000000; //10,000,000 
 
-while (finalShoesArray.length < MAX_LENGTH && finalImagesArray.length < MAX_LENGTH) {
+while (finalShoesArray.length < TEN_MILLION && finalImagesArray.length < TEN_MILLION) {
   shoes.forEach((shoe) => finalShoesArray.push(shoe))
   images.forEach((image) => finalImagesArray.push(image))
 }
-for (var i = 1; i <= MAX_LENGTH; i++) {
+for (var i = 1; i <= TEN_MILLION; i++) {
   finalShoesArray[i].image_id = i;
 }
 

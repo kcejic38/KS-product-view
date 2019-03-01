@@ -11,7 +11,8 @@
     "start": "nodemon server/index.js",
     "react-dev": "webpack -d --watch",
     "db:setup": "node database/seed.js",
-    "test": "jest --watchAll"
+    "test": "jest --watchAll",
+    "reset-db": "knex migrate:rollback && knex migrate:latest && knex seed:run"
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
