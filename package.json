@@ -10,12 +10,16 @@
   "scripts": {
     "start": "nodemon server/index.js",
     "react-dev": "webpack -d --watch",
-    "db:setup": "node database/seed.js",
-    "test": "jest --watchAll",
-    "reset-db": "knex migrate:rollback && knex migrate:latest && knex seed:run"
+    "db:setup-psql": "node database/postgress/seedDataPSQL.js",
+    "reset-psql-db": "knex migrate:rollback && knex migrate:latest && knex seed:run",
+    "db:setup-cassandra-csv": "node database/cassandra/seedDataCassandra.js",
+    "reset-cassandra-db": "cqlsh -f database/cassandra/initializeCassandraKeySpaceAndTable.cql ",
+    "seed-cassandra-db": "cqlsh -e \"COPY ks_abibas.shoes FROM 'database/cassandra/cassandra.csv' WITH DELIMITER='|' AND HEADER=TRUE;\" ",
+    "test": "jest --watchAll"
   },
   "dependencies": {
     "bootstrap": "^4.2.1",
+    "cassandra-driver": "^4.0.0",
     "express": "^4.16.4",
     "jquery": "^3.3.1",
     "knex": "^0.16.3",

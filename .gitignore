@@ -28,3 +28,5 @@ coverage
 build/
 dist/
 
+# cassandra seeding csv file (about 2.5gb with 10m lines)
+database/cassandra/cassandra.csv
