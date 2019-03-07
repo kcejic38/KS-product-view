@@ -1,7 +1,7 @@
 
-const cassandra = require('cassandra-driver');
+var cassandra = require('cassandra-driver');
 
-const images = [
+var images = [
   'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_06_standard.jpg',
   'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_05_standard.jpg',
   'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_05_standard.jpg',
@@ -15,7 +15,7 @@ const images = [
   'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_05_standard.jpg',
   'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_05_standard.jpg',
 ];
-const shoes = [
+var shoes = [
   {
     color: 'OFF WHITE / ACTIVE RED / TRUE PINK',
     type: "Womens originals",

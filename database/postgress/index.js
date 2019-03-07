@@ -2,7 +2,7 @@ const Sequelize = require('sequelize');
 const config = require('../config.js');
 
 const db = new Sequelize('Products', config.user, config.pw, {
-  host: 'localhost',
+  host: 'ec2-34-217-103-20.us-west-2.compute.amazonaws.com',
   dialect: 'mysql'
 }
 )

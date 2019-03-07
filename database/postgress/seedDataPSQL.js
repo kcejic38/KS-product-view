@@ -1,4 +1,4 @@
-const images = [
+var images = [
   {
     urls: JSON.stringify([
       'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_010_hover_standard.jpg',
@@ -108,7 +108,7 @@ const images = [
     ])
   }
 ]
-const shoes = [
+var shoes = [
 
   {
     color: 'OFF WHITE / ACTIVE RED / TRUE PINK',
@@ -232,13 +232,17 @@ const shoes = [
   }
 ]
 
-const finalShoesArray = [];
-const finalImagesArray = [];
-const TEN_MILLION = 10000000; //10,000,000 
+var finalShoesArray = [];
+var finalImagesArray = [];
+var TEN_MILLION = 10000000; //10,000,000 
 
 while (finalShoesArray.length < TEN_MILLION && finalImagesArray.length < TEN_MILLION) {
-  shoes.forEach((shoe) => finalShoesArray.push(shoe))
-  images.forEach((image) => finalImagesArray.push(image))
+  shoes.forEach(function (shoe) {
+    finalShoesArray.push(shoe)
+  })
+  images.forEach(function (image) {
+    finalImagesArray.push(image)
+  })
 }
 for (var i = 1; i <= TEN_MILLION; i++) {
   finalShoesArray[i].image_id = i;

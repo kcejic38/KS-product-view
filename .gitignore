@@ -30,3 +30,7 @@ dist/
 
 # cassandra seeding csv file (about 2.5gb with 10m lines)
 database/cassandra/cassandra.csv
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

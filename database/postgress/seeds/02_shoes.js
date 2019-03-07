@@ -1,4 +1,4 @@
-var seedData = require('../seedData.js');
+var seedData = require('../seedDataPSQL.js');
 
 exports.seed = function (knex, Promise) {
   // Deletes ALL existing entries
