@@ -8,7 +8,7 @@ exports.seed = function (knex, Promise) {
     .then(function () {
       return knex.batchInsert('image', seedData.finalImagesArray, 100).then(function (rows) {
         var timeStampTwo = new Date(Date.now());
-        console.log('Hooray! Finished seeding IMAGES at:  ', timeStampTwo.toLocaleString())
+        console.log('Hooray! Finished seeding IMAGES at:  ', timeStampTwo.toLocaleString() + '!', 'Seeding took: ', ((timeStampTwo - timeStampOne) / 1000).toLocaleString(), 'seconds!')
       }).catch(function (error) {
         console.log(error)
       })

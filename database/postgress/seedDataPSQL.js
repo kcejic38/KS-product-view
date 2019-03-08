@@ -1,112 +1,16 @@
 var images = [
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_05_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_06_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_05_standard.jpg'
-    ])
-  },
-  {
-    urls: JSON.stringify([
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_010_hover_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_02_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_03_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_04_standard.jpg',
-      'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_05_standard.jpg'
-    ])
-  }
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Continental_80_Shoes_White_EE3831_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Falcon_Shoes_White_EE4149_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/NMD_Runner_Shoes_Black_EE8933_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Nite_Jogger_Shoes_White_CG5950_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_CG6188_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/POD-S3_1_Shoes_White_G27946_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Pureboost_Trainer_Shoes_Black_BB7218_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/SAMBAROSE_Shoes_White_EE9017_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Superstar_Shoes_White_EE4023_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Beige_F35284_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Ultraboost_19_Shoes_Black_B75879_010_hover_standard.jpg' },
+  { urls: 'https://s3-us-west-1.amazonaws.com/ks-product-view-images/Cloudfoam_QT_Racer_Shoes_White_F34701_010_hover_standard.jpg' }
 ]
 var shoes = [
 
@@ -232,21 +136,73 @@ var shoes = [
   }
 ]
 
-var finalShoesArray = [];
-var finalImagesArray = [];
-var TEN_MILLION = 10000000; //10,000,000 
+// var finalShoesArray = [];
+// var finalImagesArray = [];
+// var TEN_MILLION = 1; //10,000,000 
 
-while (finalShoesArray.length < TEN_MILLION && finalImagesArray.length < TEN_MILLION) {
-  shoes.forEach(function (shoe) {
-    finalShoesArray.push(shoe)
-  })
-  images.forEach(function (image) {
-    finalImagesArray.push(image)
-  })
-}
-for (var i = 1; i <= TEN_MILLION; i++) {
-  finalShoesArray[i].image_id = i;
-}
+// while (finalShoesArray.length < TEN_MILLION && finalImagesArray.length < TEN_MILLION) {
+//   shoes.forEach(function (shoe) {
+//     finalShoesArray.push(shoe)
+//   })
+//   images.forEach(function (image) {
+//     finalImagesArray.push(image)
+//   })
+// }
+// for (var i = 1; i <= TEN_MILLION; i++) {
+//   finalShoesArray[i].image_id = i;
+// }
 
-module.exports.finalShoesArray = finalShoesArray
-module.exports.finalImagesArray = finalImagesArray
+var fs = require('fs');
+var pathForShoe = __dirname + '/postgres_seed_shoe_data.csv'
+var pathForImage = __dirname + '/postgres_seed_image_data.csv'
+function buildPostgresCSVFileShoes() {
+  //empty the file first
+  var shoeHeaders = 'color|type|model|sizes|price|image_id|avg_stars|review_count\n'
+  var imageHeaders = 'urls\n'
+
+  fs.writeFileSync(pathForShoe, shoeHeaders)
+  fs.writeFileSync(pathForImage, imageHeaders)
+
+  var TEN_MILLION = 10000008; // 10,000,008
+  var quotient = Math.ceil(TEN_MILLION / shoes.length); //833,334
+  //12 unique shoe entries repeated 833,334 times will give 10,000,008 records
+
+  var breakPoint = 0;
+  var agregateQueryShoe = '';
+  var agregateQueryImage = '';
+  var imageId = 1;
+  for (var i = 0; i < quotient; i++) {
+    breakPoint++;
+    for (var j = 0; j < shoes.length; j++) {
+      agregateQueryShoe +=
+        '"' + shoes[j].color + '"|' +
+        '"' + shoes[j].type + '"|' +
+        '"' + shoes[j].model + '"|' +
+        '"' + shoes[j].sizes + '"|' +
+        shoes[j].price + '|' +
+        (imageId++) + '|' +
+        shoes[j].avg_stars + '|' +
+        shoes[j].review_count + '\n';
+
+      agregateQueryImage += images[j].urls + '\n';
+
+      // when we reach 1000 iterations, write to file and reset string to ensure JS doesnt run out of memory
+      if (breakPoint >= 1) {
+        fs.appendFileSync(pathForShoe, agregateQueryShoe)
+        fs.appendFileSync(pathForImage, agregateQueryImage)
+
+        breakPoint = 0;
+        agregateQueryShoe = '';
+        agregateQueryImage = '';
+      }
+    }
+  }
+}
+console.time('buildPostgresCSVFile');
+
+buildPostgresCSVFileShoes();
+
+console.timeEnd('buildPostgresCSVFile');
+
+// module.exports.finalShoesArray = finalShoesArray
+// module.exports.finalImagesArray = finalImagesArray

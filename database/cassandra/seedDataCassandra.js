@@ -143,13 +143,14 @@ function writeAllCQLQueries() {
   for (var j = 0; j < quotient; j++) {
     breakPoint++;
     for (var j = 0; j < shoes.length; j++) {
-      agregateQuery += '"' + (cassandra.types.Uuid.random()) + '"|' +
+      agregateQuery += '"' + 
+              (cassandra.types.Uuid.random()) + '"|' +
         '"' + shoes[j].model + '"|' +
-        shoes[j].avg_stars + '|' +
+              shoes[j].avg_stars + '|' +
         '"' + shoes[j].color + '"|' +
         '"' + shoes[j].imagesurlsjsonarr + '"|' +
-        shoes[j].price + '|' +
-        shoes[j].review_count + '|' +
+              shoes[j].price + '|' +
+              shoes[j].review_count + '|' +
         '"' + shoes[j].sizes + '"|' +
         '"' + shoes[j].type + '"\n'
 
