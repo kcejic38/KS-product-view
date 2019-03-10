@@ -17,6 +17,10 @@ app.use(bodyParser.json())
 
 //SELECT color, type, model, sizes, price, image_id, avg_stars, review_count, SUBSTRING(image.urls, 0, 15) AS image_urls FROM shoe INNER JOIN image ON shoe.image_id=image.id WHERE shoe.model='Ultraboost 19 Shoes' LIMIT 1;
 
+app.get('/loaderio-6041c8c8eaacf008b60025f3cf35c446', (req, res) => {
+  res.send('loaderio-6041c8c8eaacf008b60025f3cf35c446');
+});
+
 app.get('/shoe', (req, res) => {
   knex.raw(`SELECT * FROM shoe LIMIT 100`)
     .then((oneHundredShoes) => {
@@ -77,13 +81,12 @@ app.get('/images', (req, res) => {
   const { imageID } = req.query;
   knex.raw(`SELECT * FROM image WHERE id=${imageID}`)
     .then((image) => {
-      console.log(image.rows)
       res.json(image.rows[0].urls.split('***'));
     })
 })
 
 app.get('*', (req, res) => {
-  console.log('serving GET request on path: ', req.path)
+  // console.log('serving GET request on path: ', req.path)
   res.send('ok')
 });
 
