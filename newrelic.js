@@ -9,7 +9,7 @@ exports.config = {
   /**
    * Array of application names.
    */
-  app_name: ['ks-abibas-product-view'],
+  app_name: ['ks-abibas-product-view-dev'],
   /**
    * Your New Relic license key.
    */

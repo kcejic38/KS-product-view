@@ -82,6 +82,11 @@ app.get('/images', (req, res) => {
     })
 })
 
+app.get('*', (req, res) => {
+  console.log('serving GET request on path: ', req.path)
+  res.send('ok')
+});
+
 app.listen(PORT, () => {
   console.log(`listening on port ${PORT}`);
 })
