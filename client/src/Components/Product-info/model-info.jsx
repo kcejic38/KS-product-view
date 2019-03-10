@@ -7,7 +7,7 @@ const ProductInfo = (props) => {
     <div className="product-info-container">
       <div className="star-review-container">
         <StarRatings
-          rating={props.currentProduct ? props.currentProduct.avg_stars : 0 }
+          rating={props.currentProduct ? Number(props.currentProduct.avg_stars) : 0 }
           starRatedColor='black'
           numberOfStars={5}
           name='rating'

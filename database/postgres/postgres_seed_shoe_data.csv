@@ -108,3 +108,891 @@ color|type|model|sizes|price|image_id|avg_stars|review_count
 "CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|107|4.5|14
 "Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|108|4.7|133
 "OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|109|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|110|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|111|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|112|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|113|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|114|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|115|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|116|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|117|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|118|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|119|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|120|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|121|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|122|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|123|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|124|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|125|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|126|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|127|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|128|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|129|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|130|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|131|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|132|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|133|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|134|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|135|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|136|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|137|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|138|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|139|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|140|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|141|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|142|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|143|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|144|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|145|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|146|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|147|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|148|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|149|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|150|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|151|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|152|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|153|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|154|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|155|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|156|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|157|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|158|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|159|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|160|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|161|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|162|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|163|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|164|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|165|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|166|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|167|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|168|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|169|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|170|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|171|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|172|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|173|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|174|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|175|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|176|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|177|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|178|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|179|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|180|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|181|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|182|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|183|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|184|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|185|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|186|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|187|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|188|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|189|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|190|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|191|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|192|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|193|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|194|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|195|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|196|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|197|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|198|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|199|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|200|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|201|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|202|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|203|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|204|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|205|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|206|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|207|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|208|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|209|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|210|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|211|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|212|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|213|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|214|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|215|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|216|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|217|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|218|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|219|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|220|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|221|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|222|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|223|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|224|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|225|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|226|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|227|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|228|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|229|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|230|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|231|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|232|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|233|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|234|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|235|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|236|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|237|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|238|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|239|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|240|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|241|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|242|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|243|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|244|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|245|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|246|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|247|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|248|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|249|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|250|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|251|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|252|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|253|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|254|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|255|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|256|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|257|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|258|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|259|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|260|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|261|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|262|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|263|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|264|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|265|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|266|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|267|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|268|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|269|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|270|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|271|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|272|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|273|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|274|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|275|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|276|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|277|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|278|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|279|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|280|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|281|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|282|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|283|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|284|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|285|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|286|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|287|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|288|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|289|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|290|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|291|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|292|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|293|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|294|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|295|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|296|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|297|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|298|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|299|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|300|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|301|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|302|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|303|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|304|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|305|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|306|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|307|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|308|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|309|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|310|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|311|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|312|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|313|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|314|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|315|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|316|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|317|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|318|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|319|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|320|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|321|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|322|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|323|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|324|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|325|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|326|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|327|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|328|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|329|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|330|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|331|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|332|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|333|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|334|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|335|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|336|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|337|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|338|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|339|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|340|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|341|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|342|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|343|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|344|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|345|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|346|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|347|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|348|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|349|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|350|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|351|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|352|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|353|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|354|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|355|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|356|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|357|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|358|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|359|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|360|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|361|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|362|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|363|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|364|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|365|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|366|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|367|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|368|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|369|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|370|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|371|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|372|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|373|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|374|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|375|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|376|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|377|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|378|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|379|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|380|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|381|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|382|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|383|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|384|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|385|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|386|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|387|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|388|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|389|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|390|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|391|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|392|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|393|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|394|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|395|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|396|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|397|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|398|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|399|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|400|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|401|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|402|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|403|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|404|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|405|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|406|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|407|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|408|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|409|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|410|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|411|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|412|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|413|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|414|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|415|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|416|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|417|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|418|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|419|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|420|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|421|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|422|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|423|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|424|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|425|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|426|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|427|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|428|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|429|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|430|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|431|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|432|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|433|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|434|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|435|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|436|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|437|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|438|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|439|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|440|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|441|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|442|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|443|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|444|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|445|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|446|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|447|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|448|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|449|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|450|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|451|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|452|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|453|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|454|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|455|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|456|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|457|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|458|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|459|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|460|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|461|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|462|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|463|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|464|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|465|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|466|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|467|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|468|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|469|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|470|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|471|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|472|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|473|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|474|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|475|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|476|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|477|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|478|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|479|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|480|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|481|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|482|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|483|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|484|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|485|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|486|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|487|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|488|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|489|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|490|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|491|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|492|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|493|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|494|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|495|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|496|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|497|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|498|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|499|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|500|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|501|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|502|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|503|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|504|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|505|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|506|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|507|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|508|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|509|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|510|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|511|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|512|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|513|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|514|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|515|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|516|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|517|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|518|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|519|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|520|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|521|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|522|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|523|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|524|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|525|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|526|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|527|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|528|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|529|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|530|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|531|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|532|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|533|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|534|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|535|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|536|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|537|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|538|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|539|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|540|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|541|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|542|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|543|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|544|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|545|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|546|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|547|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|548|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|549|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|550|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|551|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|552|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|553|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|554|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|555|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|556|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|557|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|558|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|559|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|560|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|561|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|562|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|563|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|564|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|565|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|566|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|567|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|568|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|569|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|570|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|571|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|572|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|573|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|574|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|575|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|576|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|577|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|578|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|579|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|580|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|581|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|582|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|583|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|584|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|585|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|586|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|587|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|588|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|589|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|590|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|591|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|592|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|593|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|594|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|595|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|596|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|597|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|598|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|599|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|600|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|601|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|602|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|603|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|604|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|605|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|606|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|607|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|608|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|609|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|610|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|611|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|612|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|613|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|614|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|615|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|616|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|617|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|618|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|619|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|620|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|621|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|622|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|623|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|624|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|625|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|626|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|627|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|628|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|629|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|630|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|631|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|632|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|633|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|634|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|635|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|636|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|637|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|638|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|639|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|640|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|641|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|642|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|643|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|644|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|645|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|646|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|647|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|648|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|649|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|650|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|651|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|652|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|653|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|654|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|655|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|656|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|657|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|658|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|659|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|660|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|661|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|662|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|663|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|664|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|665|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|666|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|667|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|668|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|669|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|670|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|671|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|672|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|673|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|674|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|675|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|676|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|677|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|678|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|679|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|680|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|681|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|682|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|683|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|684|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|685|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|686|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|687|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|688|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|689|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|690|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|691|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|692|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|693|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|694|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|695|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|696|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|697|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|698|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|699|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|700|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|701|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|702|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|703|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|704|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|705|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|706|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|707|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|708|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|709|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|710|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|711|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|712|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|713|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|714|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|715|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|716|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|717|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|718|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|719|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|720|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|721|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|722|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|723|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|724|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|725|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|726|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|727|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|728|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|729|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|730|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|731|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|732|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|733|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|734|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|735|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|736|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|737|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|738|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|739|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|740|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|741|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|742|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|743|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|744|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|745|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|746|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|747|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|748|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|749|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|750|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|751|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|752|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|753|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|754|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|755|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|756|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|757|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|758|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|759|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|760|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|761|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|762|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|763|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|764|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|765|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|766|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|767|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|768|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|769|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|770|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|771|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|772|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|773|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|774|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|775|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|776|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|777|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|778|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|779|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|780|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|781|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|782|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|783|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|784|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|785|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|786|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|787|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|788|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|789|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|790|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|791|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|792|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|793|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|794|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|795|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|796|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|797|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|798|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|799|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|800|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|801|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|802|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|803|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|804|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|805|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|806|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|807|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|808|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|809|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|810|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|811|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|812|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|813|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|814|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|815|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|816|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|817|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|818|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|819|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|820|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|821|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|822|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|823|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|824|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|825|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|826|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|827|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|828|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|829|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|830|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|831|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|832|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|833|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|834|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|835|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|836|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|837|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|838|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|839|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|840|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|841|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|842|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|843|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|844|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|845|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|846|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|847|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|848|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|849|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|850|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|851|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|852|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|853|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|854|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|855|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|856|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|857|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|858|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|859|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|860|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|861|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|862|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|863|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|864|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|865|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|866|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|867|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|868|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|869|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|870|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|871|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|872|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|873|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|874|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|875|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|876|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|877|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|878|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|879|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|880|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|881|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|882|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|883|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|884|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|885|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|886|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|887|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|888|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|889|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|890|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|891|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|892|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|893|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|894|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|895|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|896|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|897|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|898|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|899|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|900|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|901|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|902|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|903|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|904|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|905|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|906|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|907|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|908|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|909|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|910|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|911|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|912|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|913|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|914|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|915|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|916|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|917|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|918|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|919|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|920|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|921|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|922|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|923|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|924|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|925|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|926|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|927|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|928|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|929|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|930|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|931|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|932|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|933|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|934|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|935|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|936|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|937|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|938|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|939|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|940|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|941|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|942|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|943|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|944|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|945|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|946|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|947|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|948|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|949|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|950|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|951|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|952|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|953|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|954|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|955|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|956|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|957|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|958|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|959|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|960|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|961|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|962|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|963|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|964|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|965|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|966|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|967|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|968|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|969|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|970|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|971|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|972|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|973|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|974|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|975|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|976|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|977|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|978|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|979|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|980|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|981|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|982|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|983|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|984|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|985|4.9|15
+"RUNNING WHITE / RAW WHITE / TRACE PINK"|"Women's originals"|"Falcon Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|986|4.5|774
+"CORE BLACK / CARBON / RAW INDIGO"|"Women's essentials"|"NMD Runner Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|987|4.9|4
+"CLOUD WHITE / CRYSTAL WHITE / CORE BLACK"|"Originals"|"Nite Jogger Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|130|988|4.7|81
+"RAW WHITE / RAW WHITE / HI-RES YELLOW"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|989|4.3|229
+"CLOUD WHITE / CLOUD WHITE / SHOCK RED"|"Women's originals"|"POD-S3.1 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|990|4.3|229
+"CORE BLACK / CORE BLACK / SOLID GREY"|"Women's originals"|"Pureboost Trainer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|120|991|4.3|11
+"CLOUD WHITE / SILVER METALLIC / CORE BLACK"|"Women's originals"|"SAMBAROSE Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|992|4.6|485
+"CLOUD WHITE / CORE BLACK / CLOUD WHITE"|"Women's originals"|"Superstar Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|100|993|4|1
+"CLEAR BROWN / CLOUD WHITE / LEGEND INK"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|994|4.5|14
+"CORE BLACK / GREY / GREY"|"Women's running"|"Ultraboost 19 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|180|995|4.5|14
+"Cloud White, Cloud White, Grey"|"Women's essentials"|"Cloudfoam QT Racer Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|65|996|4.7|133
+"OFF WHITE / ACTIVE RED / TRUE PINK"|"Women's originals"|"Continental 80 Shoes"|"6, 6.5, 7, 8, 8.5, 9, 9.5"|80|997|4.9|15

@@ -6,7 +6,7 @@ import ImageCarousel from './product-view/image-carousel.jsx';
 
 
 class Main extends React.Component {
-  constructor(props){
+  constructor(props) {
     super(props);
     this.state = {
       products: [],
@@ -27,26 +27,30 @@ class Main extends React.Component {
   getProduct(model) {
     $.ajax({
       type: 'GET',
-      url: '/products',
-      data: { model: model},
+      url: '/shoe/1',
       contentType: 'application/json',
-      error: (err) => {console.log(err, 'failed retrieving products')},
-      success: (data)=> {this.setState({
-        products: data
-      });
-      this.getImages(data[0].image_ID, (data) => { this.setState({images: data})});
-      this.updateOtherImages(data);
-    }
+      error: (err) => { console.log(err, 'failed retrieving products') },
+      success: (data) => {
+        this.setState({
+          products: data
+        });
+        this.getImages(data[0].image_id, (data) => { this.setState({ images: data }) });
+        this.updateOtherImages(data);
+        var splitImages = data[0].image_urls.split('***');
+        this.setState({
+          images: splitImages
+        })
+      }
     })
   }
 
-  updateOtherImages(data){
+  updateOtherImages(data) {
     for (let i = 0; i < data.length; i++) {
       // let temp = this.state.otherImages;
-      this.getImages(data[i].image_ID, (images) => {
+      this.getImages(data[i].image_id, (images) => {
         let current = this.state.otherImages;
         current.push(images[0]);
-        this.setState({otherImages: current })
+        this.setState({ otherImages: current })
       });
     }
   }
@@ -55,28 +59,28 @@ class Main extends React.Component {
     $.ajax({
       type: 'GET',
       url: '/images',
-      data: { imageID: id},
+      data: { imageID: id },
       contentType: 'application/json',
-      success: (data)=> {callback(data)},
-      error: (err) => {console.log('error')}
+      success: (data) => { callback(data) },
+      error: (err) => { console.log('error') }
     })
   }
 
   onRelatedClick(i) {
-    this.getImages(this.state.products[i].image_ID, (data) => {this.setState({images: data})})
+    this.getImages(this.state.products[i].image_id, (data) => { this.setState({ images: data }) })
   }
 
   onExitClick() {
-    this.setState({view: false});
+    this.setState({ view: false });
   }
 
   onCarouselClick() {
-    this.setState({view: true });
+    this.setState({ view: true });
   }
 
-  renderImageCarousel(){
+  renderImageCarousel() {
     if (this.state.view) {
-      return <ImageCarousel images={this.state.images} onExitClick={this.onExitClick}/>
+      return <ImageCarousel images={this.state.images} onExitClick={this.onExitClick} />
     }
   }
 
@@ -87,8 +91,8 @@ class Main extends React.Component {
           {this.renderImageCarousel()}
         </div>
         <div className="center">
-          <Images images={this.state.images} showCarousel={this.onCarouselClick}/>
-          <InfoSection products={this.state.products} otherImages={this.state.otherImages} onRelatedClick={this.onRelatedClick}/>
+          <Images images={this.state.images} showCarousel={this.onCarouselClick} />
+          <InfoSection products={this.state.products} otherImages={this.state.otherImages} onRelatedClick={this.onRelatedClick} />
         </div>
       </div>
     )

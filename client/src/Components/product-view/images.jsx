@@ -33,6 +33,7 @@ class Images extends React.Component {
   }
 
   render() {
+    debugger;
     return (
       <div className="image-container">
         <ImageGallery images={this.props.images} thumbNailClick={this.onThumbNailClick}/>

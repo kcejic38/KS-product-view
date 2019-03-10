@@ -1,6 +1,7 @@
 import React from 'react';
 
 const CurrentImage = (props) => {
+  // debugger;
   return (
     <div className="current-container">
       <div className="left-arrow" onClick={props.leftArrowClick}>

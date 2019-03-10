@@ -10,9 +10,11 @@ app.use(express.json());
 bodyParser.urlencoded({ extended: true })
 app.use(bodyParser.json())
 
-app.get('/', (req, res) => {
-  res.send('Hello World!')
-});
+// app.get('/', (req, res) => {
+//   res.send('Hello World!')
+// });
+
+//SELECT color, type, model, sizes, price, image_id, avg_stars, review_count, SUBSTRING(image.urls, 0, 15) AS image_urls FROM shoe INNER JOIN image ON shoe.image_id=image.id WHERE shoe.model='Ultraboost 19 Shoes' LIMIT 1;
 
 app.get('/shoe', (req, res) => {
   knex.raw(`SELECT * FROM shoe LIMIT 100`)
@@ -23,7 +25,7 @@ app.get('/shoe', (req, res) => {
 
 app.get('/shoe/:shoeId', (req, res) => {
   const { shoeId } = req.params;
-  knex.raw(`SELECT * FROM shoe WHERE id=${shoeId}`)
+  knex.raw(`SELECT color, type, model, sizes, price, image_id, avg_stars, review_count, image.urls AS image_urls FROM shoe INNER JOIN image ON shoe.image_id=image.id WHERE shoe.id=${shoeId}`)
     .then((shoe) => {
       res.send(shoe.rows);
     })
@@ -68,6 +70,16 @@ app.delete('/shoe/:shoeId', (req, res) => {
       res.send('Shoe successfully deleted!');
     })
 });
+
+
+app.get('/images', (req, res) => {
+  const { imageID } = req.query;
+  knex.raw(`SELECT * FROM image WHERE id=${imageID}`)
+    .then((image) => {
+      console.log(image.rows)
+      res.json(image.rows[0].urls.split('***'));
+    })
+})
 
 app.listen(PORT, () => {
   console.log(`listening on port ${PORT}`);

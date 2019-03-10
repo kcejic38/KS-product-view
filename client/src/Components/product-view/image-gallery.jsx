@@ -1,6 +1,7 @@
 import React from 'react';
 
 const ImageGallery = (props) => {
+  // debugger;
   return (
     <div className='gallery-container'>
     {props.images.map((link, i)=> {

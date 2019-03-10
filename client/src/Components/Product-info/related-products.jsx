@@ -43,7 +43,7 @@ class RelatedProducts extends React.Component {
   }
 
   render() {
-    let colors = this.props.currentProduct ? this.props.currentProduct.colors.split(',') : [];
+    let colors = this.props.currentProduct ? this.props.currentProduct.color.split('/') : [];
     return (
       <div className="related-container">
         <h5>Available Colors</h5>
