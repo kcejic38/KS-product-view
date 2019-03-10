@@ -1,3 +1,4 @@
+require('newrelic');
 const express = require('express');
 const knex = require('../database/postgres/index.js');
 const bodyParser = require('body-parser')
