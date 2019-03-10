@@ -7,10 +7,10 @@ module.exports = {
     client: 'postgresql',
     connection: URL,
     migrations: {
-      directory: __dirname + '/database/postgress/migrations'
+      directory: __dirname + '/database/postgres/migrations'
     },
     seeds: {
-      directory: __dirname + '/database/postgress/seeds'
+      directory: __dirname + '/database/postgres/seeds'
     }
   }
 

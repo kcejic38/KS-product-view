@@ -1,49 +1,76 @@
 const express = require('express');
-const DB = require('../database/index.js');
-
+const knex = require('../database/postgres/index.js');
+const bodyParser = require('body-parser')
 const app = express();
-const port = 8002;
+const PORT = process.env.PORT || 3000;
 
 app.use(express.static(__dirname + '/../public'));
 app.use(express.json());
 
-app.get('/products', (req, res) => {
-  let model = req.query.model;
-  // console.log(Shoes);
-  DB.Shoes.sync()
-  .then(()=>{
-    return DB.Shoes.findAll({
-      where: {
-        model: model
-      }
+bodyParser.urlencoded({ extended: true })
+app.use(bodyParser.json())
+
+app.get('/', (req, res) => {
+  res.send('Hello World!')
+});
+
+app.get('/shoe', (req, res) => {
+  knex.raw(`SELECT * FROM shoe LIMIT 100`)
+    .then((oneHundredShoes) => {
+      res.send(oneHundredShoes.rows);
     })
-  })
-  .then((data) => {
-    // console.log(data);
-    res.json(data);
-  })
-})
+});
 
-app.get('/images', (req, res) => {
-  let imageID = req.query.imageID;
-  DB.Images.sync()
-  .then(()=>{
-    return DB.Images.findOne({
-      where: {
-        img_id: imageID
-      }
+app.get('/shoe/:shoeId', (req, res) => {
+  const { shoeId } = req.params;
+  knex.raw(`SELECT * FROM shoe WHERE id=${shoeId}`)
+    .then((shoe) => {
+      res.send(shoe.rows);
     })
-  })
-  .then((data) => {
-    // console.log(data.links.split('***'));
-    res.json(data.links.split('***'));
-  })
-})
+});
 
 
+/* 
+  req.body must always have the format of shoe, for example:
+    {
+      color: 'OFF WHITE / ACTIVE RED / TRUE PINK',
+      type: 'Women\'s originals',
+      model: 'Continental 80 Shoes',
+      sizes: "6, 6.5, 7, 8, 8.5, 9, 9.5",
+      price: 80,
+      image_id: 1,
+      avg_stars: 4.9,
+      review_count: 15
+    }
+*/
+app.post('/shoe', (req, res) => {
+  knex('shoe').insert(req.body).returning('shoe')
+    .then((shoe) => {
+      res.send(shoe);
+    })
+});
 
-app.listen(port, ()=>{
-  console.log(`listening on port ${port}`);
+app.put('/shoe/:shoeId', (req, res) => {
+  const { shoeId } = req.params;
+  knex('shoe')
+    .where('id', shoeId)
+    .update(req.body)
+    .returning('shoe')
+    .then((shoe) => {
+      res.send(shoe);
+    })
+});
+
+app.delete('/shoe/:shoeId', (req, res) => {
+  const { shoeId } = req.params;
+  knex.raw(`DELETE FROM shoe WHERE id=${shoeId}`)
+    .then(() => {
+      res.send('Shoe successfully deleted!');
+    })
+});
+
+app.listen(PORT, () => {
+  console.log(`listening on port ${PORT}`);
 })
 
 module.exports = app;

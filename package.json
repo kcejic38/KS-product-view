@@ -8,22 +8,21 @@
     "node": ">=6.13.0"
   },
   "scripts": {
-    "start": "nodemon server/index.js",
+    "start": "node server/index.js",
+    "start-dev": "nodemon server/index.js",
     "react-dev": "webpack -d --watch",
-
-    "reset-psql": "psql -U power_user -d template1 -f ./database/postgress/initializePSQLTables.sql",
-    "create-psql-csv": "node ./database/postgress/seedDataPSQL.js",
-    "seed-psql-one": "psql -U power_user -d template1 -c \"\\copy image(urls) FROM './database/postgress/postgres_seed_image_data.csv' DELIMITER '|' CSV HEADER;\"",
-    "seed-psql-two": "psql -U power_user -d template1 -c \"\\copy shoe(color,type,model,sizes,price,image_id,avg_stars,review_count) FROM './database/postgress/postgres_seed_shoe_data.csv' DELIMITER '|' CSV HEADER;\"",
+    "reset-psql": "psql -U power_user -d template1 -f ./database/postgres/initializePSQLTables.sql",
+    "create-psql-csv": "node ./database/postgres/seedDataPSQL.js",
+    "seed-psql-one": "psql -U power_user -d template1 -c \"\\copy image(urls) FROM './database/postgres/postgres_seed_image_data.csv' DELIMITER '|' CSV HEADER;\"",
+    "seed-psql-two": "psql -U power_user -d template1 -c \"\\copy shoe(color,type,model,sizes,price,image_id,avg_stars,review_count) FROM './database/postgres/postgres_seed_shoe_data.csv' DELIMITER '|' CSV HEADER;\"",
     "psql-all": "npm run reset-psql && npm run create-psql-csv && npm run seed-psql-one && npm run seed-psql-two",
-
     "db:setup-cassandra-csv": "node database/cassandra/seedDataCassandra.js",
     "reset-cassandra-db": "cqlsh -f database/cassandra/initializeCassandraKeySpaceAndTable.cql ",
     "seed-cassandra-db": "cqlsh -e \"COPY ks_abibas.shoes FROM 'database/cassandra/cassandra.csv' WITH DELIMITER='|' AND HEADER=TRUE;\" ",
-    
     "test": "jest --watchAll"
   },
   "dependencies": {
+    "body-parser": "^1.18.3",
     "bootstrap": "^4.2.1",
     "cassandra-driver": "^4.0.0",
     "express": "^4.16.4",
