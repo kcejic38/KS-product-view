@@ -3,7 +3,7 @@ const express = require('express');
 const knex = require('../database/postgres/index.js');
 const bodyParser = require('body-parser')
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 8002;
 
 app.use(express.static(__dirname + '/../public'));
 app.use(express.json());
@@ -31,6 +31,15 @@ app.get('/shoe', (req, res) => {
 app.get('/shoe/:shoeId', (req, res) => {
   const { shoeId } = req.params;
   knex.raw(`SELECT color, type, model, sizes, price, image_id, avg_stars, review_count, image.urls AS image_urls FROM shoe INNER JOIN image ON shoe.image_id=image.id WHERE shoe.id=${shoeId}`)
+    .then((shoe) => {
+      res.send(shoe.rows);
+    })
+});
+
+app.get('/products/:shoeModel', (req, res) => {
+  const { shoeModel } = req.params;
+  console.log(shoeModel)
+  knex.raw(`SELECT color, type, model, sizes, price, image_id, avg_stars, review_count, image.urls AS image_urls FROM shoe INNER JOIN image ON shoe.image_id=image.id WHERE shoe.model='${shoeModel}'`)
     .then((shoe) => {
       res.send(shoe.rows);
     })
