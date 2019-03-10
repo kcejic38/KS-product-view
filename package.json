@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "node server/index.js",
-    "start-dev": "nodemon server/index.js",
+    "start-dev": "node node_modules/nodemon/bin/nodemon.js server/index.js",
     "react-dev": "webpack -d --watch",
     "reset-psql": "psql -U power_user -d template1 -f ./database/postgres/initializePSQLTables.sql",
     "create-psql-csv": "node ./database/postgres/seedDataPSQL.js",
@@ -55,6 +55,7 @@
     "faker": "^4.1.0",
     "jest": "^24.1.0",
     "jest-enzyme": "^7.0.1",
+    "nodemon": "^1.18.10",
     "supertest": "^3.4.2",
     "webpack": "^4.29.5",
     "webpack-cli": "^3.2.3"

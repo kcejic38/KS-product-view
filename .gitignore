@@ -34,3 +34,10 @@ database/cassandra/cassandra.csv
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
 !.elasticbeanstalk/*.global.yml
+
+.bash_history
+.config/
+.ssh/
+.viminfo
+
+.nvm
